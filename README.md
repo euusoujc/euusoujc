@@ -1,4 +1,10 @@
-## Hi there 👋
+## Eai
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/euusoujc/euusoujc/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/euusoujc/euusoujc/blob/output/github-snake.svg" />
+  <img alt="snake" src="https://github.com/euusoujc/euusoujc/blob/output/github-snake.svg" />
+</picture>
 
 <!--
 **euusoujc/euusoujc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
