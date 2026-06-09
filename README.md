@@ -22,20 +22,6 @@ Fã de noites frias, velocidade nas pistas e histórias de heróis que operam na
 
 ---
 
-## 🎨 Um pouco da minha personalidade
-
-<!-- ✏️ EDITE AQUI: adicione seus GIFs e imagens favoritos -->
-<!-- Dica: use o formato abaixo para adicionar imagens lado a lado -->
-<!-- Tamanho recomendado: width="200" para manter o layout em linha -->
-
-<div align="center">
-
-| | | |
-|:---:|:---:|:---:|
-| <img src="SUA_IMAGEM_1.gif" width="200" alt="gif 1"/> | <img src="SUA_IMAGEM_2.png" width="200" alt="imagem 2"/> | <img src="SUA_IMAGEM_3.gif" width="200" alt="gif 3"/> |
-
-</div>
-
 <!-- 
   💡 COMO ADICIONAR IMAGENS:
   1. Faça upload das imagens/gifs para o seu repositório (pasta /assets ou raiz)
@@ -58,7 +44,6 @@ Fã de noites frias, velocidade nas pistas e histórias de heróis que operam na
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 </div>
 
