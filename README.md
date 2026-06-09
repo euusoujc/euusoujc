@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🦇 *"A darker path demands a sharper mind."* 🕷️
+### 🦇 *Criando coisinhas tops.* 🕷️
 
 <!-- ✏️ EDITE AQUI: substitua pela sua frase/bio -->
 > *[Sua frase aqui — algo sobre você, sua jornada ou sua visão sobre dados e tecnologia]*
@@ -105,16 +105,12 @@ Fã de noites frias, velocidade nas pistas e histórias de heróis que operam na
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-salvino/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julcsalvino@gmail.com)
-[![Accredible](https://img.shields.io/badge/Accredible-F5A623?style=for-the-badge&logo=acclaim&logoColor=white)](https://www.credential.net/profile/juliosalvino/wallet)
 
 </div>
 
 ---
 
 <div align="center">
-
-*"Not all heroes wear capes — some wear headphones and write SQL queries at midnight."* 🦇🏍️
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=euusoujc.euusoujc)
 
