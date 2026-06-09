@@ -4,9 +4,6 @@
 
 ### 🦇 *Criando coisinhas tops.* 🕷️
 
-<!-- ✏️ EDITE AQUI: substitua pela sua frase/bio -->
-> *[Sua frase aqui — algo sobre você, sua jornada ou sua visão sobre dados e tecnologia]*
-
 </div>
 
 ---
