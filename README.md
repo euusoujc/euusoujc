@@ -79,7 +79,7 @@
 
 ---
 
-## 📜 Certificações
+## 📜 Certifications
 
 <div align="center">
 
@@ -89,7 +89,7 @@
 
 ---
 
-## 📬 Contato
+## 📬 Contact me
 
 <div align="center">
 
