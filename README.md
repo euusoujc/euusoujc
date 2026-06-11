@@ -27,55 +27,21 @@
 
 <div align="center">
 
-<!-- Linguagens & Cloud -->
-**Languages & Cloud**
-
+<!-- Skill Icons: todos os que têm ícone disponível -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,r,js,gcp&theme=dark&perline=4" />
+  <img src="https://skillicons.dev/icons?i=py,r,js,mysql,gcp,git,vscode,selenium,pandas,jira&theme=dark&perline=5" />
 </a>
 
 <br/><br/>
 
-<!-- Banco de Dados -->
-**Databases**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=4" />
-</a>
-
+<!-- Badges: ferramentas sem ícone no skillicons.dev -->
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Dataform](https://img.shields.io/badge/Dataform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-<br/><br/>
-
-<!-- Ferramentas -->
-**Tools & Automation**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,vscode,selenium,pandas&theme=dark&perline=4" />
-</a>
-
-![Web Scraping](https://img.shields.io/badge/Web_Scraping-3C3C3C?style=for-the-badge&logo=python&logoColor=white)
-![RPA](https://img.shields.io/badge/RPA-FF6600?style=for-the-badge&logo=robot-framework&logoColor=white)
-
-<br/><br/>
-
-<!-- BI & Reporting -->
-**BI & Reporting**
-
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-<br/><br/>
-
-<!-- Metodologias -->
-**Methodologies**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=jira&theme=dark&perline=4" />
-</a>
-
+![Dataform](https://img.shields.io/badge/Dataform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-3C3C3C?style=for-the-badge&logo=python&logoColor=white)
+![RPA](https://img.shields.io/badge/RPA-FF6600?style=for-the-badge&logo=robotframework&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 </div>
@@ -107,7 +73,7 @@
 
 ---
 
-## 📄 Currículo
+## 📄 Curriculum
 
 <div align="center">
 
@@ -117,7 +83,7 @@
 
 ---
 
-## 📜 Certificações
+## 📜 Certifications
 
 <div align="center">
 
@@ -127,7 +93,7 @@
 
 ---
 
-## 📬 Contato
+## 📬 Contact me
 
 <div align="center">
 
