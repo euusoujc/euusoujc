@@ -2,30 +2,24 @@
 
 <div align="center">
 
-### 🦇 *Criando coisinhas tops.* 🕷️
+### 🦇 *You can call me JC.* 🕷️
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About me
 
-Engenheiro de Dados num time de Analytics — transformando dados brutos em decisões inteligentes.
-Fã de noites frias, velocidade nas pistas e histórias de heróis que operam nas sombras. 🏍️🌙
-
-- 🔭 Trabalhando com **pipelines de dados, ETL e analytics**
-- 🌱 Sempre aprendendo algo novo no universo de **Data Engineering**
-- ⚡ Curto motos, Palmeiras, Asa Noturna e Homem-Aranha nas horas vagas
+- Data Engineer at @Porto building reliable databases and RPA's.
+- Currently pursuing two bachelor's degrees at UFABC: Science & Technology (BC&T) and Data Science.
+- Palmeiras supporter, F1 enjoyer and love to play videogames.
+- Based on São Paulo, Brazil.
 
 ---
 
-<!-- 
-  💡 COMO ADICIONAR IMAGENS:
-  1. Faça upload das imagens/gifs para o seu repositório (pasta /assets ou raiz)
-  2. Substitua "SUA_IMAGEM_X.gif" pelo caminho: ./assets/nome-do-arquivo.gif
-  3. Ou use link externo do Giphy: src="https://media.giphy.com/media/ID_DO_GIF/giphy.gif"
-  4. Boas fontes de GIFs: giphy.com, tenor.com (botão direito > copiar endereço da imagem)
--->
+<div align="center">
+  <img src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif" width="400" alt="gif"/>
+</div>
 
 ---
 
@@ -33,14 +27,56 @@ Fã de noites frias, velocidade nas pistas e histórias de heróis que operam na
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+<!-- Linguagens & Cloud -->
+**Languages & Cloud**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,r,js,gcp&theme=dark&perline=4" />
+</a>
+
+<br/><br/>
+
+<!-- Banco de Dados -->
+**Databases**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=4" />
+</a>
+
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Dataform](https://img.shields.io/badge/Dataform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+<br/><br/>
+
+<!-- Ferramentas -->
+**Tools & Automation**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,vscode,selenium,pandas&theme=dark&perline=4" />
+</a>
+
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-3C3C3C?style=for-the-badge&logo=python&logoColor=white)
+![RPA](https://img.shields.io/badge/RPA-FF6600?style=for-the-badge&logo=robot-framework&logoColor=white)
+
+<br/><br/>
+
+<!-- BI & Reporting -->
+**BI & Reporting**
+
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+<br/><br/>
+
+<!-- Metodologias -->
+**Methodologies**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=jira&theme=dark&perline=4" />
+</a>
+
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 </div>
 
@@ -79,12 +115,6 @@ Fã de noites frias, velocidade nas pistas e histórias de heróis que operam na
 
 </div>
 
-<!-- 
-  💡 COMO CONFIGURAR O CURRÍCULO:
-  Suba o arquivo "curriculo_julio_salvino.pdf" na raiz do repositório euusoujc/euusoujc
-  O botão acima já vai funcionar automaticamente com o download direto.
--->
-
 ---
 
 ## 📜 Certificações
@@ -102,6 +132,7 @@ Fã de noites frias, velocidade nas pistas e histórias de heróis que operam na
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-salvino/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julcsalvino@gmail.com)
 
 </div>
 
