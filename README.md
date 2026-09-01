@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About me
 
-- Data Engineer at @Porto building reliable databases and RPA's.
+- Data Scientist at @Banco BV.
 - Currently pursuing two bachelor's degrees at UFABC: Science & Technology (BC&T) and Data Science.
 - Palmeiras supporter, F1 and bodybuilding enjoyer and love to play videogames.
 - Based on São Paulo, Brazil.
